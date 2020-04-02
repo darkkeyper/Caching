@@ -1,4 +1,4 @@
-﻿namespace Caching_Update
+﻿namespace Caching
 {
     /// <summary>
     /// Common time constants in milliseconds.

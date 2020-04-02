@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading;
 
-namespace Caching_Update
+namespace Caching
 {
     public abstract class TimedThread : IDisposable
     {

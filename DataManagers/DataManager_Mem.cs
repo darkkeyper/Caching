@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Caching_Update.DataManagers
+namespace Caching.DataManagers
 {
     public class DataManager_Mem<T> : IDataManager<T>
     {

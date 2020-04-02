@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Caching_Update
+namespace Caching
 {
     public class CacheData<T> : ICacheData<T>
     {

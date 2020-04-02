@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Caching_Update
+namespace Caching
 {
     public interface IDataManager<T>
     {

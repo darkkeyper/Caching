@@ -1,4 +1,4 @@
-﻿namespace Caching_Update
+﻿namespace Caching
 {
     public class CacheMessage : ICacheMessage
     {

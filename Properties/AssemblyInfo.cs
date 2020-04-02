@@ -1,12 +1,12 @@
 using System.Reflection;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("Caching_Update")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("ObjectCaching")]
+[assembly: AssemblyDescription("Create and maintains objects in generic caches.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Caching_Update")]
-[assembly: AssemblyCopyright("Copyright ©  2019")]
+[assembly: AssemblyCompany("Chais Orgill")]
+[assembly: AssemblyProduct("ObjectCaching")]
+[assembly: AssemblyCopyright("Copyright © 2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

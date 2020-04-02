@@ -2,7 +2,7 @@
 using System.Security.Cryptography;
 using System.Text;
 
-namespace Caching_Update
+namespace Caching
 {
     public class Md5System
     {
